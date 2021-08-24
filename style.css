@@ -1,0 +1,19 @@
+body{
+text-align: center;
+background-color: aqua;
+    
+}
+img{
+width: 400px;
+height: 400px;
+
+}
+.section1{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    margin: 10px;
+    
+    background-color: blanchedalmond;
+}
